@@ -4,6 +4,6 @@
 
 <main class="page">
 	<h1>Error {page.status}</h1>
-	<p>{page.error?.message ?? "Something went wrong."}</p>
+	<p>{page.error?.message ?? "Something went wrong in the control plane."}</p>
 	<a href="/">Go back home</a>
 </main>

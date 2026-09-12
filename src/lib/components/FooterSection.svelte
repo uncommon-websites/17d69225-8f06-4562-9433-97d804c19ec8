@@ -1,16 +1,16 @@
 <script>
   const features = [
-    "Stricted permissions", "Vendor access to bill of materials", "Vendor management", "Deletions of data prevented, write-only", "Every commit preserved", "Team permissions",
-    "Assembly reparenting within a bill of materials", "Generate a bill of materials from a design", "Design releases", "Clear to build management", "Vendor management", "Easily load a bill of materials from a design",
-    "Detailed bill of materials item history", "Revision tracking for all parts", "Alternates tracking", "Live redlined bill of materials changes", "3D CAD viewers", "Mechanical drawings",
-    "Detailed bill of materials item history", "Revision tracking for all parts", "Alternates tracking", "Live redlined bill of materials changes", "Firmware versioning",
-    "Electrical bills of materials", "Electrical layouts", "Electrical schematics", "Full bill of materials edit history", "Mechanical bills of materials", "Project access for members",
-    "Vendor management", "Vendor access to bill of materials", "Deletions of data prevented, write-only", "Team permissions", "Generate a bill of materials from a design",
-    "Design releases", "Vendor restricted permissions", "Clear to build management", "Vendor management", "Easily load a bill of materials from a design", "Detailed bill of materials item history",
-    "Part number management", "Procurement tracking", "Clear to build management", "Design releases", "Create custom columns for a bill of materials of filtering",
-    "Mechanical drawings", "3D CAD viewers", "Revision tracking for all parts", "Alternates tracking", "Create custom columns for a bill of materials of filtering", "Download attachments from bill of materials",
-    "Create custom columns for a bill of materials", "Full bill of materials edit history", "Live redlined bill of materials changes", "Electrical schematics",
-    "Firmware versioning", "Electrical layouts", "Full bill of materials edit history", "Live redlined bill of materials changes"
+    "Role-based access controls", "Vendor integration permissions", "Resource access management", "Immutable audit logs, append-only", "Every execution preserved", "Team permissions",
+    "Workflow reparenting within an orchestration graph", "Generate a resource map from a configuration", "Infrastructure releases", "Deploy readiness management", "Vendor management", "Easily load a resource plan from a config",
+    "Detailed workflow item history", "Revision tracking for all resources", "Alternate routing tracking", "Live redlined workflow changes", "3D topology viewers", "Infrastructure diagrams",
+    "Detailed workflow item history", "Revision tracking for all resources", "Alternate routing tracking", "Live redlined workflow changes", "Agent versioning",
+    "Cloud resource manifests", "Network topology layouts", "Infrastructure schematics", "Full workflow edit history", "Compute resource manifests", "Project access for members",
+    "Vendor management", "Vendor access to resource manifests", "Deletions of data prevented, append-only", "Team permissions", "Generate a resource map from a configuration",
+    "Infrastructure releases", "Vendor restricted permissions", "Deploy readiness management", "Vendor management", "Easily load a resource plan from a config", "Detailed workflow item history",
+    "Resource ID management", "Provisioning tracking", "Deploy readiness management", "Infrastructure releases", "Create custom columns for a resource manifest for filtering",
+    "Infrastructure diagrams", "3D topology viewers", "Revision tracking for all resources", "Alternate routing tracking", "Create custom columns for a resource manifest for filtering", "Download attachments from resource manifests",
+    "Create custom columns for a resource manifest", "Full workflow edit history", "Live redlined workflow changes", "Infrastructure schematics",
+    "Agent versioning", "Network topology layouts", "Full workflow edit history", "Live redlined workflow changes"
   ];
 </script>
 
@@ -49,7 +49,7 @@
        </div>
        
        <p class="text-lg text-gray-600 mb-8 leading-relaxed">
-          Do you want to revolutionize how your team collaborates and builds hardware together? You need Config.
+          Ready to unify your infrastructure orchestration and eliminate fragmented manual workflows? Your engineering team needs Symfon IO.
        </p>
        <button class="bg-[#2563EB] text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors font-semibold text-sm">
           Get started
@@ -67,7 +67,7 @@
                   <path d="M12 8L16 10V14L12 16L8 14V10L12 8Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
            </div>
-           <span class="font-bold text-sm">Config @ 2025</span>
+           <span class="font-bold text-sm">Symfon IO @ 2025</span>
            <span class="text-gray-500 text-xs ml-2">Designed in the United States</span>
         </div>
         

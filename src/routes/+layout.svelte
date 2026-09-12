@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Config - Superpowers for Hardware Teams</title>
+	<title>Symfon IO - Unified Workflow Automation for Cloud Infrastructure</title>
 </svelte:head>
 
 <slot />

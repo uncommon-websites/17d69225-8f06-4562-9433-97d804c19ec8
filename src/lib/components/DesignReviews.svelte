@@ -6,7 +6,7 @@
 <section class="py-24 bg-white text-center">
   <div class="max-w-[1200px] mx-auto px-6">
     <h2 class="text-5xl font-bold mb-6 tracking-tight text-gray-900">
-      Magical Design<br>Reviews
+      Effortless Infrastructure<br>Coordination
     </h2>
     
     <!-- Tabs -->
@@ -24,20 +24,20 @@
     </div>
 
     <p class="text-lg text-gray-600 mb-16 max-w-2xl mx-auto leading-relaxed">
-      Collaborate with your team on every revision of every part right in the browser.<br>
-      Add annotations, comments, and complete reviews.
+      Unify your engineering team around every infrastructure change—without leaving your browser.<br>
+      Add discussions, notes, and thorough workflow reviews instantly.
     </p>
 
     <!-- UI Mockup -->
-    <div class="bg-white rounded-xl shadow-2xl overflow-hidden border border-gray-200 text-left h-[700px] flex flex-col">
+    <img src="/generated/image-a-close-up-authentic-photo-of-a-software-1789240192380-0.webp" alt="Infrastructure review in action" class="w-full h-[400px] object-cover rounded-xl shadow-2xl mb-8 border border-gray-200" />
       <!-- Toolbar -->
       <div class="h-12 border-b border-gray-200 flex items-center justify-between px-4 bg-white">
         <div class="flex items-center gap-4">
-           <span class="text-xs font-mono text-gray-500">318-2214</span>
+           <span class="text-xs font-mono text-gray-500">INFRA-2214</span>
            <span class="text-gray-300">/</span>
            <span class="text-xs font-bold text-gray-900 flex items-center gap-2">
              <span class="w-2 h-2 rounded-full bg-blue-500"></span>
-             Enclosure - Revision 4
+             Cluster Rollout – Change D
            </span>
         </div>
         
@@ -59,7 +59,7 @@
         <!-- Left Sidebar (Tree) -->
         <div class="w-64 bg-gray-50 border-r border-gray-200 flex flex-col text-xs">
            <div class="p-2 border-b border-gray-200 flex items-center justify-between">
-              <span class="font-bold text-gray-700">ASSEMBLY</span>
+              <span class="font-bold text-gray-700">WORKFLOW</span>
               <div class="flex gap-1 text-gray-400">
                  <span>🔍</span>
                  <span>⚙️</span>
@@ -67,33 +67,33 @@
            </div>
            <div class="flex-1 overflow-y-auto p-2 space-y-1">
               <div class="flex items-center gap-2 text-gray-600 pl-2">
-                 <span>▼</span> <span>Reference Stand</span>
+                 <span>▼</span> <span>VPC Setup</span>
               </div>
               <div class="flex items-center gap-2 text-gray-600 pl-2">
-                 <span>▼</span> <span>Reference Background</span>
+                 <span>▼</span> <span>Initial Networking</span>
               </div>
               <div class="flex items-center gap-2 font-medium text-gray-900 pl-2 bg-blue-50 rounded py-1">
-                 <span>▼</span> <span>Enclosure Assembly</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R5</span>
+                 <span>▼</span> <span>Distributed Compute</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R5</span>
               </div>
               <div class="pl-6 space-y-1">
                  <div class="flex items-center gap-2 text-gray-700">
-                    <span>👁️</span> <span>Bottom Enclosure</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R4</span>
+                    <span>👁️</span> <span>Database Node</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R4</span>
                  </div>
                  <div class="flex items-center gap-2 text-gray-700">
-                    <span>👁️</span> <span>Top Enclosure</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R9</span>
+                    <span>👁️</span> <span>Orchestrator Node</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R9</span>
                  </div>
                  <div class="flex items-center gap-2 text-gray-500">
-                    <span>👁️</span> <span>92703A454-18_Stainless_st...</span>
+                    <span>👁️</span> <span>us-east-1-api-pool ...</span>
                  </div>
                  <div class="flex items-center gap-2 text-gray-500">
-                    <span>👁️</span> <span>92703A454-18_Stainless_st...</span>
+                    <span>👁️</span> <span>gke-cluster-prod ...</span>
                  </div>
                  <div class="flex items-center gap-2 text-gray-500">
-                    <span>👁️</span> <span>92703A454-18_Stainless_st...</span>
+                    <span>👁️</span> <span>eks-nodegroup-dev ...</span>
                  </div>
               </div>
               <div class="flex items-center gap-2 text-gray-600 pl-2 pt-2">
-                 <span>▶</span> <span>Keyboard Assembly</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R2</span>
+                 <span>▶</span> <span>Service Mesh</span> <span class="ml-auto text-[10px] bg-gray-200 px-1 rounded text-gray-600">R2</span>
               </div>
            </div>
         </div>
@@ -130,7 +130,7 @@
                  <div class="w-6 h-6 rounded-full bg-green-500 border-2 border-white"></div>
                  <div class="w-6 h-6 rounded-full bg-yellow-500 border-2 border-white"></div>
               </div>
-              <span class="text-gray-600">3 currently viewing</span>
+              <span class="text-gray-600">3 currently collaborating</span>
            </div>
         </div>
 
@@ -139,7 +139,7 @@
            <div class="p-4 border-b border-gray-100">
               <div class="flex items-center gap-2 mb-3">
                  <div class="w-6 h-6 rounded-full bg-gray-200"></div>
-                 <input type="text" placeholder="Add a comment..." class="flex-1 bg-transparent text-sm focus:outline-none">
+                 <input type="text" placeholder="Add an observation..." class="flex-1 bg-transparent text-sm focus:outline-none">
               </div>
               <div class="flex justify-between items-center">
                  <div class="flex gap-2 text-gray-400">
@@ -153,7 +153,7 @@
            
            <div class="flex-1 overflow-y-auto p-4 space-y-6">
               <div class="flex items-center justify-between text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-2">
-                 <span>All Comments</span>
+                 <span>Discussion</span>
                  <div class="flex gap-2">
                     <button>Filter</button>
                     <button>Sort</button>
@@ -169,11 +169,11 @@
                        <span class="text-[10px] text-gray-400">6h</span>
                     </div>
                     <div class="text-xs text-gray-600 bg-gray-50 p-2 rounded-lg border border-gray-100 mb-1">
-                       <span class="text-blue-500">@cody</span> Updated enclosure walls to 6mm, increased fillet radius to fit
+                       <span class="text-blue-500">@cody</span> Migrated all compute nodes to autoscale for burst demand scenarios
                     </div>
                     <div class="flex items-center gap-2 mt-1">
                        <div class="w-4 h-4 rounded-full bg-gray-200"></div>
-                       <span class="text-[10px] text-gray-400">Add a reply...</span>
+                       <span class="text-[10px] text-gray-400">Reply...</span>
                     </div>
                  </div>
               </div>
@@ -188,11 +188,11 @@
                        <span class="text-[10px] text-gray-400">6h</span>
                     </div>
                     <div class="text-xs text-gray-600 mb-1">
-                       Can we increase the enclosure walls to 6mm thickness?
+                       Should we enable rollout locks before launching a new node group version?
                     </div>
                     <div class="flex items-center gap-2 mt-1">
                        <div class="w-4 h-4 rounded-full bg-gray-200"></div>
-                       <span class="text-[10px] text-gray-400">Add a reply...</span>
+                       <span class="text-[10px] text-gray-400">Reply...</span>
                     </div>
                  </div>
               </div>

@@ -6,7 +6,7 @@
     Superpowers for<br>Hardware Teams
   </h1>
   <p class="text-lg text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed">
-    Config brings together engineering, operations, and manufacturing to make shipping high-quality hardware easier at scale.
+    Symfon IO brings together engineering, operations, and manufacturing to make shipping high-quality hardware easier at scale.
   </p>
   <button class="bg-[#2563EB] text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors font-semibold text-sm mb-20 cursor-pointer">
     Get started
@@ -43,23 +43,23 @@
   <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mt-20 text-left">
     <div>
       <div class="text-xs font-semibold text-gray-400 mb-2">01</div>
-      <h3 class="text-xl font-bold text-gray-900 mb-2">Mechanical</h3>
+      <h3 class="text-xl font-bold text-gray-900 mb-2">Orchestration</h3>
       <p class="text-sm text-gray-500 leading-relaxed">
-        Drawings and designs managed in a way that works the way you think, with automatically generated BOMs. Compatible with NX and SolidWorks.
+        Define and manage complex workflows across distributed cloud resources from a single control plane, with automatically resolved dependency graphs. Compatible with Terraform and Pulumi.
       </p>
     </div>
     <div>
       <div class="text-xs font-semibold text-gray-400 mb-2">02</div>
-      <h3 class="text-xl font-bold text-gray-900 mb-2">Electrical</h3>
+      <h3 class="text-xl font-bold text-gray-900 mb-2">Automation</h3>
       <p class="text-sm text-gray-500 leading-relaxed">
-        Manage your whole team's schematics and layouts with ease, also with automatically generated BOMs. Compatible with Altium.
+        Coordinate your entire team's infrastructure operations with ease, eliminating fragmented manual processes. Integrates seamlessly with your existing cloud providers and toolchains.
       </p>
     </div>
     <div>
       <div class="text-xs font-semibold text-gray-400 mb-2">03</div>
-      <h3 class="text-xl font-bold text-gray-900 mb-2">Firmware</h3>
+      <h3 class="text-xl font-bold text-gray-900 mb-2">Integration</h3>
       <p class="text-sm text-gray-500 leading-relaxed">
-        Complete your BOM with firmware releases. Revision build assets manually and automatically with CI/CD Release integration.
+        Connect your full DevOps lifecycle with native CI/CD pipeline support. Trigger and monitor resource operations automatically as part of every software deployment.
       </p>
     </div>
   </div>
